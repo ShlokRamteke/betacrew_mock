@@ -1,0 +1,22 @@
+2024-08-04T05:51:17.089Z [info]: Connected to BetaCrew server at localhost:3000
+2024-08-04T05:51:17.095Z [info]: Received packet: {"symbol":"AAPL","buysellindicator":"B","quantity":50,"price":100,"sequence":1}
+2024-08-04T05:51:17.096Z [info]: Received packet: {"symbol":"AAPL","buysellindicator":"B","quantity":30,"price":98,"sequence":2}
+2024-08-04T05:51:17.096Z [info]: Received packet: {"symbol":"AAPL","buysellindicator":"S","quantity":20,"price":101,"sequence":3}
+2024-08-04T05:51:17.097Z [info]: Received packet: {"symbol":"AAPL","buysellindicator":"S","quantity":10,"price":102,"sequence":4}
+2024-08-04T05:51:17.097Z [info]: Received packet: {"symbol":"META","buysellindicator":"S","quantity":30,"price":55,"sequence":6}
+2024-08-04T05:51:17.097Z [info]: Received packet: {"symbol":"MSFT","buysellindicator":"B","quantity":25,"price":150,"sequence":8}
+2024-08-04T05:51:17.097Z [info]: Received packet: {"symbol":"MSFT","buysellindicator":"B","quantity":20,"price":148,"sequence":10}
+2024-08-04T05:51:17.098Z [info]: Received packet: {"symbol":"AMZN","buysellindicator":"B","quantity":5,"price":2999,"sequence":12}
+2024-08-04T05:51:17.098Z [info]: Received packet: {"symbol":"AMZN","buysellindicator":"S","quantity":15,"price":3020,"sequence":13}
+2024-08-04T05:51:17.098Z [info]: Received packet: {"symbol":"AMZN","buysellindicator":"S","quantity":10,"price":3015,"sequence":14}
+2024-08-04T05:51:17.099Z [info]: Server closed the connection
+2024-08-04T05:51:17.100Z [info]: Requesting 4 missing packets
+2024-08-04T05:51:17.103Z [info]: Connected to BetaCrew server at localhost:3000
+2024-08-04T05:51:17.103Z [info]: Received resent packet: {"symbol":"META","buysellindicator":"B","quantity":40,"price":50,"sequence":5}
+2024-08-04T05:51:17.104Z [info]: Connected to BetaCrew server at localhost:3000
+2024-08-04T05:51:17.105Z [info]: Received resent packet: {"symbol":"META","buysellindicator":"S","quantity":20,"price":57,"sequence":7}
+2024-08-04T05:51:17.106Z [info]: Connected to BetaCrew server at localhost:3000
+2024-08-04T05:51:17.107Z [info]: Received resent packet: {"symbol":"MSFT","buysellindicator":"S","quantity":15,"price":155,"sequence":9}
+2024-08-04T05:51:17.108Z [info]: Connected to BetaCrew server at localhost:3000
+2024-08-04T05:51:17.108Z [info]: Received resent packet: {"symbol":"AMZN","buysellindicator":"B","quantity":10,"price":3000,"sequence":11}
+2024-08-04T05:51:17.110Z [info]: Output written to betacrew_output.json
